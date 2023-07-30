@@ -19,7 +19,7 @@ const App = () => {
       id: crypto.randomUUID(),
     },
     {
-      description: "Apples",
+      description: "Pears",
       amount: 10,
       category: "Groceries",
       id: crypto.randomUUID(),
